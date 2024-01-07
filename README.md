@@ -25,7 +25,7 @@ Project Structure
 
 The project was developed using the following technologies:
 
-- [Appium2](https://appium.io/docs/en/2.4/intro/))
+- [Appium2](https://appium.io/docs/en/2.4/intro/)
 - [testNG](https://testng.org/doc/)
 - [Cucumber](https://cucumber.dev/)
 - [Log4j](https://logging.apache.org/log4j/2.x/)
