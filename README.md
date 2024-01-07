@@ -25,11 +25,12 @@ Project Structure
 
 The project was developed using the following technologies:
 
-- [Appium 2]([https://www.selenium.dev/documentation/webdriver/getting_started/upgrade_to_selenium_4/](https://appium.io/docs/en/2.4/intro/))
+- [Appium2](https://appium.io/docs/en/2.4/intro/))
 - [testNG](https://testng.org/doc/)
 - [Cucumber](https://cucumber.dev/)
 - [Log4j](https://logging.apache.org/log4j/2.x/)
-- [Allure Report] (https://allurereport.org/)
+- [AllureReport](https://allurereport.org/)
+
 
 ## :seedling: Minimal Requirements
 
