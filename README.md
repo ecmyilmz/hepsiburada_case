@@ -29,7 +29,7 @@ The project was developed using the following technologies:
 - [testNG](https://testng.org/doc/)
 - [Cucumber](https://cucumber.dev/)
 - [Log4j](https://logging.apache.org/log4j/2.x/)
-- Allure Report (https://allurereport.org/)
+- [Allure Report] (https://allurereport.org/)
 
 ## :seedling: Minimal Requirements
 
